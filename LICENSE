@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+# -*- utf-8 -*-
+# Filename: license
+
+print('This is a test.')
